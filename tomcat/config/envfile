@@ -1,0 +1,14 @@
+LD_LIBRARY_PATH=/usr/local/tomcat/native-jni-lib
+CATALINA_HOME=/usr/local/tomcat
+LANG=C.UTF-8
+HOSTNAME=8284e614f3ff
+TOMCAT_VERSION=8.5.50
+JAVA_HOME=/usr/local/openjdk-8
+TOMCAT_NATIVE_LIBDIR=/usr/local/tomcat/native-jni-lib
+JAVA_VERSION=8u232
+PWD=/usr/local/tomcat
+TOMCAT_MAJOR=8
+TERM=xterm
+JAVA_BASE_URL=https://github.com/AdoptOpenJDK/openjdk8-upstream-binaries/releases/download/jdk8u232-b09/OpenJDK8U-jdk_
+SHLVL=1
+JAVA_URL_VERSION=8u232b09
